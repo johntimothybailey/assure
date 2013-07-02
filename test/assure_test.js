@@ -11,7 +11,6 @@ delay = ( function () {
 	}
 })();
 
-
 exports["verify"] = {
 	setUp: function (done) {
 		this.outcome = "verified";
